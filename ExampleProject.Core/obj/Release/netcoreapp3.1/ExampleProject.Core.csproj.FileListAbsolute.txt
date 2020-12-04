@@ -1,0 +1,5 @@
+C:\Users\kerim\source\repos\ExampleProject\ExampleProject.Core\obj\Release\netcoreapp3.1\ExampleProject.Core.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\ExampleProject\ExampleProject.Core\obj\Release\netcoreapp3.1\ExampleProject.Core.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\ExampleProject\ExampleProject.Core\obj\Release\netcoreapp3.1\ExampleProject.Core.AssemblyInfo.cs
+C:\Users\kerim\source\repos\ExampleProject\ExampleProject.Core\obj\Release\netcoreapp3.1\ExampleProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\ExampleProject\ExampleProject.Core\obj\Release\netcoreapp3.1\ExampleProject.Core.MvcApplicationPartsAssemblyInfo.cache
